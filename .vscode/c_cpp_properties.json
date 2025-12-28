@@ -1,0 +1,13 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "macOS Clang (Homebrew)",
+      "compilerPath": "/usr/local/opt/llvm/bin/clang++",
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "macos-clang-x64",
+      "includePath": ["${workspaceFolder}/**"]
+    }
+  ]
+}
